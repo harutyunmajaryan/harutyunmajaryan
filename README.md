@@ -4,7 +4,7 @@
 
 <br/>
 
-📍 Manchester, UK &nbsp;•&nbsp; 🎓 [YOUR DEGREE / YEAR] &nbsp;•&nbsp; 🔎 Looking for [2027 internships / placements]
+📍 Manchester, UK &nbsp;•&nbsp; 🎓 Year 2 Computer Science student &nbsp;•&nbsp; 🔎 Looking for Summer 2027 internships
 
 <br/>
 
@@ -24,8 +24,8 @@ I like understanding how things work from the ground up, from **CPU instruction 
 | | |
 |---|---|
 | 🔭 **Currently working on** | [YOUR CURRENT PROJECT] |
-| 🌱 **Currently learning** | [e.g. Cloud engineering, computer architecture, ML] |
-| 🎯 **Looking for** | [Software / cloud / data internships & placements] |
+| 🌱 **Currently learning** | Cloud engineering, computer architecture & data science |
+| 🎯 **Looking for** | Summer 2027 software, cloud & data internships |
 | 💬 **Ask me about** | Python, RISC-V, Google Cloud, data science, robotics |
 
 ---
