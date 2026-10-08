@@ -23,10 +23,10 @@ I like understanding how things work from the ground up, from **CPU instruction 
 
 | | |
 |---|---|
-| 🔭 **Currently working on** | Finance-Tracker Web App |
+| 🔭 **Currently working on** | [YOUR CURRENT PROJECT] |
 | 🌱 **Currently learning** | Cloud engineering, computer architecture & data science |
 | 🎯 **Looking for** | Summer 2027 software, cloud & data internships |
-| 💬 **Ask me about** | Python, RISC-V assembly, data science, robotics,web developement |
+| 💬 **Ask me about** | Python, RISC-V, Google Cloud, data science, robotics |
 
 ---
 
@@ -34,12 +34,12 @@ I like understanding how things work from the ground up, from **CPU instruction 
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**RISC-V-Simulator**](https://github.com/harutyunmajaryan/RISC-V-Simulator) | [One line: e.g. Simulator that executes RISC-V instructions and models registers/memory] | ![Python]![Assembly](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
+| [**RISC-V-Simulator**](https://github.com/harutyunmajaryan/RISC-V-Simulator) | [One line: e.g. Simulator that executes RISC-V instructions and models registers/memory] | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Assembly](https://img.shields.io/badge/-RISC--V_Assembly-285EAE?logo=riscv&logoColor=white&style=flat-square) |
 | [**Firing-System**](https://github.com/harutyunmajaryan/Firing-System) | [One line: what it does and why you built it] | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
-| [**Hack-A-Robot-Solo-Project**](https://github.com/harutyunmajaryan/Hack-A-Robot-Solo-Project) | [One line: the robot, the challenge, your role] | ![Python][Arduino](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
+| [**Hack-A-Robot-Solo-Project**](https://github.com/harutyunmajaryan/Hack-A-Robot-Solo-Project) | [One line: the robot, the challenge, your role] | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
 | [**Google-Cloud-Engineering**](https://github.com/harutyunmajaryan/Google-Cloud-Engineering) | [One line: labs/projects you built on GCP] | ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square) |
 | [**Data-Science**](https://github.com/harutyunmajaryan/Data-Science) | Data science laboratory work | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
-| [**FindYourUni_Website**](https://github.com/harutyunmajaryan/FindYourUni_Website) | [One line: what the site helps users do] | ![Javascript][Python][HTML][CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square) |
+| [**FindYourUni_Website**](https://github.com/harutyunmajaryan/FindYourUni_Website) | [One line: what the site helps users do] | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square) |
 
 ---
 
@@ -49,6 +49,8 @@ I like understanding how things work from the ground up, from **CPU instruction 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Assembly](https://img.shields.io/badge/-RISC--V_Assembly-285EAE?logo=riscv&logoColor=white&style=for-the-badge)
 
 **Cloud & tools**
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
