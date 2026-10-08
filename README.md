@@ -34,7 +34,7 @@ I like understanding how things work from the ground up, from **CPU instruction 
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**RISC-V-Simulator**](https://github.com/harutyunmajaryan/RISC-V-Simulator) | [One line: e.g. Simulator that executes RISC-V instructions and models registers/memory] | ![Python][Assembly](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
+| [**RISC-V-Simulator**](https://github.com/harutyunmajaryan/RISC-V-Simulator) | [One line: e.g. Simulator that executes RISC-V instructions and models registers/memory] | ![Python]![Assembly](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
 | [**Firing-System**](https://github.com/harutyunmajaryan/Firing-System) | [One line: what it does and why you built it] | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
 | [**Hack-A-Robot-Solo-Project**](https://github.com/harutyunmajaryan/Hack-A-Robot-Solo-Project) | [One line: the robot, the challenge, your role] | ![Python][Arduino](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) |
 | [**Google-Cloud-Engineering**](https://github.com/harutyunmajaryan/Google-Cloud-Engineering) | [One line: labs/projects you built on GCP] | ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white&style=flat-square) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square) |
