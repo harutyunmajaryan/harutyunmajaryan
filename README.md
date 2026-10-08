@@ -54,7 +54,6 @@ I'm a second-year Computer Science student at the **University of Manchester** w
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 ![RISC-V Assembly](https://img.shields.io/badge/-RISC--V_Assembly-285EAE?logo=riscv&logoColor=white&style=for-the-badge)
-![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-5C2D91?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-SQL_/_NoSQL-4479A1?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
@@ -66,7 +65,6 @@ I'm a second-year Computer Science student at the **University of Manchester** w
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white&style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
 
 **Concepts**<br/>
