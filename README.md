@@ -65,7 +65,7 @@ I'm a second-year Computer Science student at the **University of Manchester** w
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge)
+
 
 **Concepts**<br/>
 `Full-stack development` `OOP` `Algorithm design` `Computer architecture` `Operating systems` `Distributed systems` `Machine learning` `Databases`
