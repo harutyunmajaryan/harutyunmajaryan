@@ -89,12 +89,6 @@ Run Peer-Assisted Study Sessions for first-year Computer Science students.
 - 🏅 **Silver Medal**, WSMC Math & Science Olympiad
 - 🎖️ **Distinction**, Physics Project on Electromagnetic Waves
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harutyunmajaryan&show_icons=true&theme=default" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harutyunmajaryan&layout=compact" alt="Top languages" />
-</p>
 
 ## 🤝 Let's connect
 
