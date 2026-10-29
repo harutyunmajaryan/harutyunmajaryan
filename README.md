@@ -4,8 +4,8 @@
 
 📍 Manchester, UK  •  🎓 Year 2 BSc Computer Science  •  🔎 Looking for Summer 2027 internships & insight programmes
 
-<a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:majaryanharutyun@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/harutyun-majaryan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=harutyunmajaryan&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 
