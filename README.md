@@ -79,7 +79,7 @@ I'm a second-year Computer Science student at the University of Manchester who l
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/ff1a1a/harutyunmajaryan" alt="Harutyun's GitHub contribution graph" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harutyunmajaryan&bg_color=000000&color=ff1a1a&line=ff1a1a&point=ffffff&area=true&area_color=ff1a1a&hide_border=true&custom_title=Contribution%20Activity" alt="Harutyun's GitHub contribution graph" width="90%" />
 
 </div>
 
