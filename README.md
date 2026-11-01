@@ -192,9 +192,9 @@ timeline
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harutyunmajaryan/harutyunmajaryan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harutyunmajaryan/harutyunmajaryan/output/github-snake.svg" />
-  <img alt="Harutyun's GitHub contribution graph" src="https://raw.githubusercontent.com/harutyunmajaryan/harutyunmajaryan/output/github-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harutyunmajaryan/harutyunmajaryan/output/contributions-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harutyunmajaryan/harutyunmajaryan/output/contributions.svg" />
+  <img alt="Harutyun's GitHub contribution graph" src="https://raw.githubusercontent.com/harutyunmajaryan/harutyunmajaryan/output/contributions.svg" width="100%" />
 </picture>
 
 </div>
