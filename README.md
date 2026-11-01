@@ -75,11 +75,11 @@ I'm a second-year Computer Science student at the University of Manchester who l
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harutyunmajaryan&background=000000&ring=ff1a1a&fire=ff1a1a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff1a1a&sideLabels=ff1a1a&dates=9e9e9e&stroke=2a2a2a&hide_border=true" alt="GitHub streak and total contributions" width="85%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harutyunmajaryan&background=000000&ring=ff1a1a&fire=ff1a1a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff1a1a&sideLabels=ff1a1a&dates=9e9e9e&stroke=2a2a2a&hide_border=true" alt="GitHub streak and total contributions" height="170" />
 
 <br/><br/>
 
-<img src="https://github-contributions-api.deno.dev/harutyunmajaryan.svg?scheme=red&bg=000000&frame=000000&font-color=ffffff" alt="Harutyun's GitHub contribution graph" width="90%" />
+<img src="https://ghchart.rshah.org/ff1a1a/harutyunmajaryan" alt="Harutyun's GitHub contribution graph" width="90%" />
 
 </div>
 
