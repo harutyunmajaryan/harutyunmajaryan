@@ -181,9 +181,6 @@ timeline
 
 </div>
 
-<br/>
-
-## 📊 &nbsp;GitHub stats & activity
 
 <div align="center">
 <br/>
