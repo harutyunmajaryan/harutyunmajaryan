@@ -75,14 +75,16 @@ I'm a second-year Computer Science student at the University of Manchester who l
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/0e75b6/harutyunmajaryan" alt="Harutyun's GitHub contribution chart" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harutyunmajaryan&background=000000&ring=ff1a1a&fire=ff1a1a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff1a1a&sideLabels=ff1a1a&dates=9e9e9e&stroke=2a2a2a&hide_border=true" alt="GitHub streak" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harutyunmajaryan&theme=default&hide_border=true" alt="GitHub streak" height="150" />
-<img src="https://github-readme-stats.vercel.app/api?username=harutyunmajaryan&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="150" />
+<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harutyunmajaryan&layout=compact&hide_border=true" alt="Top languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=harutyunmajaryan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=ff1a1a&icon_color=ff1a1a&text_color=ffffff&ring_color=ff1a1a" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harutyunmajaryan&layout=compact&hide_border=true&bg_color=000000&title_color=ff1a1a&text_color=ffffff" alt="Top languages" height="165" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harutyunmajaryan&hide_border=true&area=true&color=0e75b6&line=0e75b6&point=0e75b6" alt="Contribution activity graph" width="100%" />
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harutyunmajaryan&bg_color=000000&color=ff1a1a&line=ff1a1a&point=ffffff&area=true&area_color=ff1a1a&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" width="100%" />
 
 </div>
 
