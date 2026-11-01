@@ -191,6 +191,10 @@ timeline
 
 <br/><br/>
 
+<a href="https://github.com/harutyunmajaryan">
+  <img src="https://ghchart.rshah.org/2ea043/harutyunmajaryan" alt="Harutyun's GitHub contribution graph" width="100%" />
+</a>
+
 </div>
 
 <br/>
