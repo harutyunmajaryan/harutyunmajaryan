@@ -186,10 +186,7 @@ timeline
 ## 📊 &nbsp;GitHub stats & activity
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harutyunmajaryan&theme=dark&background=0d1117&ring=0e75b6&fire=38bdf8&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38bdf8&sideLabels=0e75b6&dates=9e9e9e&stroke=2a2a2a&hide_border=true" alt="GitHub streak stats" height="170" />
-
-<br/><br/>
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harutyunmajaryan/harutyunmajaryan/output/contributions-dark.svg" />
