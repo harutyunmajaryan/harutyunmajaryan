@@ -191,9 +191,11 @@ timeline
 
 <br/><br/>
 
-<a href="https://github.com/harutyunmajaryan">
-  <img src="https://ghchart.rshah.org/2ea043/harutyunmajaryan" alt="Harutyun's GitHub contribution graph" width="100%" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harutyunmajaryan/harutyunmajaryan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harutyunmajaryan/harutyunmajaryan/output/github-snake.svg" />
+  <img alt="Harutyun's GitHub contribution graph" src="https://raw.githubusercontent.com/harutyunmajaryan/harutyunmajaryan/output/github-snake.svg" width="100%" />
+</picture>
 
 </div>
 
