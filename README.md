@@ -83,24 +83,19 @@ I'm a second-year Computer Science student at the University of Manchester who l
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=harutyunmajaryan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=000000&title_color=ff1a1a&icon_color=ff1a1a&text_color=ffffff&ring_color=ff1a1a" alt="GitHub stats" height="130" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harutyunmajaryan&layout=compact&hide_border=true&bg_color=000000&title_color=ff1a1a&text_color=ffffff" alt="Top languages" height="130" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harutyunmajaryan&background=000000&ring=ff1a1a&fire=ff1a1a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff1a1a&sideLabels=ff1a1a&dates=9e9e9e&stroke=2a2a2a&hide_border=true" alt="GitHub streak" height="110" />
 
 </div>
 
 ## 💼 Experience
 
-**Software Developer (Intern), Bioneex Inc, Yerevan** · Jul – Sep 2026
+**Software Developer (Intern), Bioneex Inc, Yerevan** · Jul – Sep 2026<br/>
 Coding, testing and debugging in a live production environment for a bioscience company that lists drug candidates for licensing, acquisition and funding.
 
-**Localization QA / Linguistic Tester, Dentsu (Contract)** · Jan 2026
+**Localization QA / Linguistic Tester, Dentsu (Contract)** · Jan 2026<br/>
 Validated Armenian-language content for NEXT, resolving 50+ localisation issues with zero post-launch corrections.
 
-**PASS Leader, University of Manchester** · Jan 2026 – present
+**PASS Leader, University of Manchester** · Jan 2026 – present<br/>
 Run Peer-Assisted Study Sessions for first-year Computer Science students.
 
 ## 🏆 Awards
