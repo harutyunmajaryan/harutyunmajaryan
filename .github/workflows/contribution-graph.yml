@@ -1,0 +1,89 @@
+name: Generate contribution graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate contribution graph SVGs
+        run: |
+          cat > graph.py <<'PYEOF'
+          import re, sys, urllib.request, datetime, os
+
+          user = sys.argv[1]
+          outdir = sys.argv[2]
+          os.makedirs(outdir, exist_ok=True)
+
+          req = urllib.request.Request(
+              f"https://github.com/users/{user}/contributions",
+              headers={"User-Agent": "Mozilla/5.0"},
+          )
+          html = urllib.request.urlopen(req, timeout=30).read().decode("utf-8")
+
+          days = {}
+          for tag in re.findall(r"<(?:td|rect)\b[^>]*>", html):
+              d = re.search(r'data-date="(\d{4}-\d{2}-\d{2})"', tag)
+              l = re.search(r'data-level="(\d)"', tag)
+              if d and l:
+                  days[d.group(1)] = int(l.group(1))
+          if not days:
+              sys.exit("No contribution data found")
+
+          dates = sorted(days)
+          first = datetime.date.fromisoformat(dates[0])
+          last = datetime.date.fromisoformat(dates[-1])
+          start = first - datetime.timedelta(days=(first.weekday() + 1) % 7)  # Sunday
+
+          CELL, GAP, LEFT, TOP = 11, 3, 30, 22
+          step = CELL + GAP
+          weeks = ((last - start).days // 7) + 1
+          width = LEFT + weeks * step + 10
+          height = TOP + 7 * step + 10
+
+          palettes = {
+              "contributions.svg": (["#ebedf0", "#9be9a8", "#40c463", "#30a14e", "#216e39"], "#57606a"),
+              "contributions-dark.svg": (["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"], "#8b949e"),
+          }
+
+          for name, (colors, text) in palettes.items():
+              out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif" font-size="10">']
+              for i, label in ((1, "Mon"), (3, "Wed"), (5, "Fri")):
+                  out.append(f'<text x="0" y="{TOP + i*step + CELL - 2}" fill="{text}">{label}</text>')
+              prev_month = None
+              last_label_x = -999
+              for d in dates:
+                  date = datetime.date.fromisoformat(d)
+                  offset = (date - start).days
+                  w, r = offset // 7, offset % 7
+                  x, y = LEFT + w * step, TOP + r * step
+                  if r == 0 and date.month != prev_month:
+                      if x - last_label_x >= 3 * step:
+                          out.append(f'<text x="{x}" y="12" fill="{text}">{date.strftime("%b")}</text>')
+                          last_label_x = x
+                      prev_month = date.month
+                  out.append(f'<rect x="{x}" y="{y}" width="{CELL}" height="{CELL}" rx="2" fill="{colors[days[d]]}"><title>{d}</title></rect>')
+              out.append("</svg>")
+              with open(os.path.join(outdir, name), "w", encoding="utf-8") as f:
+                  f.write("\n".join(out))
+          print(f"Generated {len(days)} days -> {outdir}")
+          PYEOF
+          python3 graph.py "${{ github.repository_owner }}" dist
+
+      - name: Push to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
