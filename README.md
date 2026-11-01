@@ -47,16 +47,16 @@ I'm a second-year Computer Science student at the University of Manchester who l
 
 ---
 
-### 📊 GitHub stats & contribution activity
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <!-- GitHub Streak Stats (Increased size & centered) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harutyunmajaryan&theme=dark&background=000000&ring=ff1a1a&fire=ff1a1a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff1a1a&sideLabels=ff1a1a&dates=9e9e9e&stroke=2a2a2a&hide_border=true" alt="GitHub streak stats" width="85%" />
+  <!-- Sized Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harutyunmajaryan&theme=dark&background=000000&ring=ff1a1a&fire=ff1a1a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff1a1a&sideLabels=ff1a1a&dates=9e9e9e&stroke=2a2a2a&hide_border=true" alt="GitHub streak stats" height="180" />
   
   <br/><br/>
 
-  <!-- Contribution Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harutyunmajaryan&theme=react-dark&bg_color=000000&color=ff1a1a&line=ff1a1a&point=ffffff&area=true&area_color=ff1a1a&hide_border=true&custom_title=Contribution%20Activity" alt="Harutyun's GitHub contribution graph" width="95%" />
+  <!-- Reliable GitHub Contribution Graph SVG -->
+  <img src="https://ghchart.rshah.org/ff1a1a/harutyunmajaryan" alt="Harutyun's GitHub contribution graph" width="100%" />
 </div>
 
 ---
