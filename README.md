@@ -71,6 +71,21 @@ I'm a second-year Computer Science student at the University of Manchester who l
 ![Machine learning](https://img.shields.io/badge/Machine_learning-555555)
 ![Databases](https://img.shields.io/badge/Databases-555555)
 
+## 📊 GitHub contributions
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/0e75b6/harutyunmajaryan" alt="Harutyun's GitHub contribution chart" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harutyunmajaryan&theme=default&hide_border=true" alt="GitHub streak" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=harutyunmajaryan&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" height="150" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harutyunmajaryan&layout=compact&hide_border=true" alt="Top languages" height="150" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harutyunmajaryan&hide_border=true&area=true&color=0e75b6&line=0e75b6&point=0e75b6" alt="Contribution activity graph" width="100%" />
+
+</div>
+
 ## 💼 Experience
 
 **Software Developer (Intern), Bioneex Inc, Yerevan** · Jul – Sep 2026
