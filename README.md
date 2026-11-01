@@ -50,13 +50,13 @@ I'm a second-year Computer Science student at the University of Manchester who l
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <!-- Sized Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harutyunmajaryan&theme=dark&background=000000&ring=ff1a1a&fire=ff1a1a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff1a1a&sideLabels=ff1a1a&dates=9e9e9e&stroke=2a2a2a&hide_border=true" alt="GitHub streak stats" height="180" />
+  <!-- GitHub Streak Stats (Blue Theme) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harutyunmajaryan&theme=dark&background=000000&ring=0e75b6&fire=0e75b6&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=0e75b6&sideLabels=0e75b6&dates=9e9e9e&stroke=2a2a2a&hide_border=true" alt="GitHub streak stats" height="180" />
   
   <br/><br/>
 
-  <!-- Reliable GitHub Contribution Graph SVG -->
-  <img src="https://ghchart.rshah.org/ff1a1a/harutyunmajaryan" alt="Harutyun's GitHub contribution graph" width="100%" />
+  <!-- GitHub Contribution Graph (Blue Theme) -->
+  <img src="https://ghchart.rshah.org/0e75b6/harutyunmajaryan" alt="Harutyun's GitHub contribution graph" width="100%" />
 </div>
 
 ---
