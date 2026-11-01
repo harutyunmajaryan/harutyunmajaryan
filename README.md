@@ -203,8 +203,6 @@ timeline
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=footer&text=Let's%20connect&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20engineering%20%E2%80%A2%20Robotics%20%E2%80%A2%20Computer%20architecture%20%E2%80%A2%20Internships&descSize=15&descAlignY=62" width="100%" alt="Footer banner" />
-
 I'd love to chat, so feel free to reach out. 💬
 
 <a href="mailto:majaryanharutyun@gmail.com"><img src="https://img.shields.io/badge/Say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
