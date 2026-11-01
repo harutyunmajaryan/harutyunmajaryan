@@ -194,7 +194,6 @@ timeline
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harutyunmajaryan/harutyunmajaryan/output/contributions-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harutyunmajaryan/harutyunmajaryan/output/contributions.svg" />
-  <img alt="Harutyun's GitHub contribution graph" src="https://raw.githubusercontent.com/harutyunmajaryan/harutyunmajaryan/output/contributions.svg" width="100%" />
 </picture>
 
 </div>
@@ -202,6 +201,8 @@ timeline
 <br/>
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=footer&text=Let's%20connect&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Software%20engineering%20%E2%80%A2%20Robotics%20%E2%80%A2%20Computer%20architecture%20%E2%80%A2%20Internships&descSize=15&descAlignY=62" width="100%" alt="Footer banner" />
 
 I'd love to chat, so feel free to reach out. 💬
 
