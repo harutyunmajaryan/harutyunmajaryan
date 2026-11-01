@@ -75,15 +75,11 @@ I'm a second-year Computer Science student at the University of Manchester who l
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harutyunmajaryan/harutyunmajaryan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harutyunmajaryan/harutyunmajaryan/output/github-snake.svg" />
-  <img alt="Contribution graph with snake" src="https://raw.githubusercontent.com/harutyunmajaryan/harutyunmajaryan/output/github-snake-dark.svg" width="100%" />
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harutyunmajaryan&background=000000&ring=ff1a1a&fire=ff1a1a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff1a1a&sideLabels=ff1a1a&dates=9e9e9e&stroke=2a2a2a&hide_border=true" alt="GitHub streak and total contributions" height="130" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harutyunmajaryan&background=000000&ring=ff1a1a&fire=ff1a1a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff1a1a&sideLabels=ff1a1a&dates=9e9e9e&stroke=2a2a2a&hide_border=true" alt="GitHub streak" height="110" />
+<img src="https://ghchart.rshah.org/ff1a1a/harutyunmajaryan" alt="Harutyun's GitHub contribution graph" width="90%" />
 
 </div>
 
