@@ -191,12 +191,6 @@ timeline
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harutyunmajaryan&layout=compact&theme=transparent&title_color=38bdf8&text_color=c9d1d9&hide_border=true&langs_count=8" alt="Top languages" height="170" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harutyunmajaryan&bg_color=0d1117&color=38bdf8&line=0e75b6&point=ffffff&area=true&area_color=0e75b6&hide_border=true" alt="Contribution activity graph" width="100%" />
-
 </div>
 
 <br/>
